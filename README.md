@@ -1,4 +1,4 @@
-![logo](https://github.com/sanuamit/sanuamit/blob/main/Banner.jpg)
+![Banner](https://github.com/sanuamit/sanuamit/raw/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Amit Kumar Pati</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
