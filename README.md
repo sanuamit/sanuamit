@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="coding" width="1200" src="https://user-images.githubusercontent.com/62628408/201165752-abcdd7c0-8447-415e-80f2-315d3cb04e84.png">
+  <img alt="coding" width="1200" src="https://user-images.githubusercontent.com/43504407/140059056-5609753a-bc75-48c7-97f7-decd3e07eca3.png">
 </p>
 
 <h1 align="center">Hi 👋, I'm Amit Kumar Pati</h1>
@@ -29,21 +29,21 @@ A
 
 - ⚡ Fun fact **Amit, a name that radiates strength and determination, is on a journey to carve out a unique and remarkable path in the world.**
 
-  
-### Connect with me:
-
-[https://www.linkedin.com/in/amit-kumar-pati-975351241/](https://www.linkedin.com/in/amit-kumar-pati-975351241/)
-
+<a href="https://www.linkedin.com/in/amit-kumar-pati-975351241/">
+  <img src="https://w7.pngwing.com/pngs/93/587/png-transparent-linkedin-logo-linkedin-logo-computer-icons-business-symbol-linkedin-icon-miscellaneous-blue-angle-thumbnail.png" alt="LinkedIn Logo" width="20" height="20">
+    <br> Connect with me on LinkedIn
+</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  - HTML <br>
-  - CSS <br>
-  - JavaScript <br>
-  - React.js <br>
-  - Redux.js <br>
-  - Bootstrap <br>
-  - JSON <br>
+  <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png" alt="HTML Logo" width="20" height="20"/> ---- HTML <br>
+  <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-css-logo-png-transparent-svg-vector-bie-supply-9.png" alt="CSS Logo" width="20" height="20"/> ---- CSS <br>
+  <img src="https://www.freepnglogos.com/uploads/javascript/javascript-wysiwyg-editor-and-reusable-assets-coherent-editor-5.png" alt="JavaScript Logo" width="20" height="20"/> ---- JavaScript <br>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl3A6r0qso0TOI7-P6N6MYUBVkqXkCiIvs4JXJFnQ&s" alt="React.js Logo" width="20" height="20"/> ---- React.js <br>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe-lGRFnH7HDTmzzgjhhZLj0rESDwbMU8Yjm-qC8Ptxg&s" alt="Redux.js Logo" width="20" height="20"/> ---- Redux.js <br>
+  <img src="https://w7.pngwing.com/pngs/168/618/png-transparent-responsive-web-design-web-development-bootstrap-cascading-style-sheets-web-browser-world-wide-web-purple-web-design-violet-thumbnail.png" 
+  alt="Bootstrap Logo" width="20" height="20"/> ---- Bootstrap <br>
+  <img src="https://w7.pngwing.com/pngs/456/654/png-transparent-json-filetype-icon-thumbnail.png" alt="JSON Logo" width="20" height="20"/> ---- JSON <br>
 </p>
 
 
