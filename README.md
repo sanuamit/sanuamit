@@ -15,17 +15,19 @@ A
 
 - 👯 I’m looking to collaborate on **FRONT-END PROJECTS**
 
-- 🤝 I’m looking for help with **BACKEND FRAMEWORKS**
+- 🤝 I’m looking for help with - **BACKEND FRAMEWORKS**
 
-- 👨‍💻 All of my projects are available at [https://sanuamit.github.io/PERSONAL-PROTFOLIO/](https://sanuamit.github.io/PERSONAL-PROTFOLIO/)
+- 👨‍💻 All of my projects are available on GitHub - **https://github.com/sanuamit**
 
-- 📝 I regularly write articles on [https://sanuamit.github.io/PERSONAL-PROTFOLIO/](https://sanuamit.github.io/PERSONAL-PROTFOLIO/)
-
+- 📝 I regularly write articles on LinkedIn - **https://www.linkedin.com/in/amit-kumar-pati-975351241/**
+  
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACTJS, REDUX, BOOTSTRAP, TAILWIND CSS, JSON API, JSON BACKEND, MYSQL WORKBENCH, NORD JS**
+  
+- 🐙 I am regularly active on My Personal Portfolio. Feel free to explore my work and don't hesitate to contact me for any inquiries or assistance. - **https://sanuamit.github.io/PERSONAL-PROTFOLIO/**
+  
+- 📫 How to reach me - **apati9587@gmail.com/sanuamitpati@gmail.com**
 
-- 📫 How to reach me **apati9587@gmail.com/sanuamitpati@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qFMx3bsUsh2YVjduOq4prFZtaNDsRiNQ/view?usp=drivesdk](https://drive.google.com/file/d/1qFMx3bsUsh2YVjduOq4prFZtaNDsRiNQ/view?usp=drivesdk)
+- 📄 Know about my experiences - [https://drive.google.com/file/d/1qFMx3bsUsh2YVjduOq4prFZtaNDsRiNQ/view?usp=drivesdk](https://drive.google.com/file/d/1qFMx3bsUsh2YVjduOq4prFZtaNDsRiNQ/view?usp=drivesdk)
 
 - ⚡ Fun fact **Amit, a name that radiates strength and determination, is on a journey to carve out a unique and remarkable path in the world.**
 
