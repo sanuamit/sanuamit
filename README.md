@@ -46,8 +46,7 @@ A
   <img src="https://w7.pngwing.com/pngs/456/654/png-transparent-json-filetype-icon-thumbnail.png" alt="JSON Logo" width="20" height="20"/> ---- JSON <br>
 </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanuamit&show_icons=true&locale=en&layout=compact" alt="sanuamit" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanuamit&show_icons=true&locale=en&layout=compact" alt="sanuamit" /></p> 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanuamit&show_icons=true&locale=en" alt="sanuamit" /></p>
 
