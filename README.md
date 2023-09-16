@@ -27,7 +27,7 @@ A
   
 - 📫 How to reach me - **apati9587@gmail.com/sanuamitpati@gmail.com**
 
-- 📄 Know about my experiences - [https://drive.google.com/file/d/1qFMx3bsUsh2YVjduOq4prFZtaNDsRiNQ/view?usp=drivesdk](https://drive.google.com/file/d/1qFMx3bsUsh2YVjduOq4prFZtaNDsRiNQ/view?usp=drivesdk)
+- 📄 Know about my experiences - [https://drive.google.com/file/d/1rA392m2_w6WFYTp2bstM9m_h1ciLMm1-/view?usp=drivesdk](https://drive.google.com/file/d/1rA392m2_w6WFYTp2bstM9m_h1ciLMm1-/view?usp=drivesdk)
 
 - ⚡ Fun fact **Amit, a name that radiates strength and determination, is on a journey to carve out a unique and remarkable path in the world.**
 
