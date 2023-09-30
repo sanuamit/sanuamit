@@ -10,8 +10,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanuamit&label=Profile%20views&color=0e75b6&style=flat" alt="sanuamit" /> </p>
 
 - 🔭 I’m currently working on **FRONT-END FRAMEWORKS**
-A
-- 🌱 I’m currently learning **LARAVEL, DANGO,PYTHON,NORD JS**AA
+
+- 🌱 I’m currently learning **LARAVEL, DANGO,PYTHON,NORD JS**
 
 - 👯 I’m looking to collaborate on **FRONT-END PROJECTS**
 
