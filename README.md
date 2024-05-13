@@ -42,10 +42,12 @@
   <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-css-logo-png-transparent-svg-vector-bie-supply-9.png" alt="CSS Logo" width="20" height="20"/> ---- CSS <br>
   <img src="https://www.freepnglogos.com/uploads/javascript/javascript-wysiwyg-editor-and-reusable-assets-coherent-editor-5.png" alt="JavaScript Logo" width="20" height="20"/> ---- JavaScript <br>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl3A6r0qso0TOI7-P6N6MYUBVkqXkCiIvs4JXJFnQ&s" alt="React.js Logo" width="20" height="20"/> ---- React.js <br>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG_AuxfLI-vVNgs9vzWWfuJwKpf6h7_6gw1lkswscMhA&s" alt="React.js Logo" width="20" height="20"/> ---- Angular.js <br>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe-lGRFnH7HDTmzzgjhhZLj0rESDwbMU8Yjm-qC8Ptxg&s" alt="Redux.js Logo" width="20" height="20"/> ---- Redux.js <br>
   <img src="https://w7.pngwing.com/pngs/168/618/png-transparent-responsive-web-design-web-development-bootstrap-cascading-style-sheets-web-browser-world-wide-web-purple-web-design-violet-thumbnail.png" 
   alt="Bootstrap Logo" width="20" height="20"/> ---- Bootstrap <br>
-  <img src="https://w7.pngwing.com/pngs/456/654/png-transparent-json-filetype-icon-thumbnail.png" alt="JSON Logo" width="20" height="20"/> ---- JSON <br>
+  <img src="https://i.ytimg.com/vi/wXGlWLQdgf4/maxresdefault.jpg" alt="JSON Logo" width="20" height="20"/> ---- Tailwind CSS <br>
+  <img src="https://w7.pngwing.com/pngs/456/654/png-transparent-json-filetype-icon-thumbnail.png" alt="JSON Logo" width="20" height="20"/> ---- JSON APIs <br>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanuamit&show_icons=true&locale=en&layout=compact" alt="sanuamit" /></p> 
