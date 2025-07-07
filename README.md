@@ -1,13 +1,13 @@
 <!-- 🌟 Profile Header Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey+%F0%9F%91%8B+I'm+Amit+Kumar+Pati;Full+Stack+Web+Developer+%7C+MERN+%2B+MEAN+Expert;Crafting+Web+Apps+with+Clean+UI+%26+Smart+Code;Passionate+about+DSA%2C+AI%2C+and+Automation;Turning+Ideas+Into+Scalable+Digital+Experiences+%F0%9F%92%BB" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hey+%F0%9F%91%8B+I'm+Amit+Kumar+Pati;Full+Stack+Web+Developer+%7C+MERN+%2B+MEAN+Expert;Crafting+Web+Apps+with+Clean+UI+%26+Smart+Code;Passionate+about+DSA%2C+AI%2C+and+Automation;Turning+Ideas+Into+Scalable+Digital+Experiences+%F0%9F%92%BB" alt="Typing Animation" />
 </div>
 
 
 <!-- 🚀 Working Animated Banner -->
 <div align="center">
   <a href="#">
-    <img src="https://raw.githubusercontent.com/sanuamit/sanuamit/main/GitHub.png" 
+    <img src="https://raw.githubusercontent.com/sanuamit/sanuamit/main/Github_Header.png" 
          alt="GitHub Banner"
          width="100%"
          style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
