@@ -85,8 +85,8 @@
 - 🔗 [Real Estate Listing Platform](https://github.com/sanuamit/Resume_Real_Estate_Listing_Platform.git) – Next.js, Tailwind CSS  
 - 🔗 [Note Keeping App](https://github.com/sanuamit/Resume_Note_Keeping_App.git) – React.js, Bootstrap  
 - 🔗 [Task Management App](https://github.com/sanuamit/Resume_Task_Management_App.git) – React.js, Tailwind CSS  
-- 🔗 [Blog App (MEAN)](https://github.com/sanuamit/Resume_Blog_App_MEAN.git)  
-- 🔗 [Book Store App (MERN)](https://github.com/sanuamit/11.-Book-Store-App--MERN--MongoDB--Express.js--React.js--Node.js--.git)  
+- 🔗 [Blog App (MEAN)](https://github.com/sanuamit/Resume_Blog_App_MEAN.git) - Angular, Mongo DB, Node, Express 
+- 🔗 [Book Store App (MERN)](https://github.com/sanuamit/11.-Book-Store-App--MERN--MongoDB--Express.js--React.js--Node.js--.git) - React, Mongo DB, Node, Express 
 
 ---
 
