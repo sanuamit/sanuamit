@@ -43,7 +43,7 @@
 - 🛠️ Full Stack Developer | MERN & MEAN Stack | Selenium Testing  
 - 🌱 Learning: Automation, DSA, Next.js, AI Tools  
 - 🔗 Portfolio: [View Website](https://sanuamit.github.io/Portfolio_Web/)  
-- 📄 [Download Resume](https://drive.google.com/drive/folders/1xNMo7_R571T3XuHtC2UDYK6oKPK1criR?usp=drive_link)
+- 📄 [Download Resume](https://drive.google.com/file/d/1SY0UJ4tEyuukbZtMVDBV-5UOQ6hlxm2B/view?usp=drivesdk)
 
 ---
 
